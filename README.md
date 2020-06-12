@@ -5,7 +5,7 @@ This repository contains code to run an predictive inference task adapted from [
 <strong>Seow, T. X.F.</strong> & Gillan, C. M. (2020). [Transdiagnostic phenotyping reveals a host of metacognitive deficits implicated in compulsivity.](https://www.nature.com/articles/s41598-020-59646-4) <i>Scientific Reports</i>, <strong>10</strong>(1), 1-11.
 
 <p align="center">
-  <embed src="https://github.com/seowxft/predictive-inference-task/blob/master/images/task.pdf" alt="TaskFig"/>
+  <embed src="https://github.com/seowxft/predictive-inference-task/blob/master/images/task.png" alt="TaskFig"/>
 </p>
 
 <strong>Predictive-inference task</strong>. (<strong>a</strong>) Trial sequence. Participants were instructed to position a bucket (yellow arc on the circle edge) to catch a flying particle, and thereafter rated their confidence that they would catch the particle. Particles were fired from the centre of the circle to the edge. Points were gained when the particle was caught, and the bucket turned green; else, points were lost and the bucket turned red. (<strong>b</strong>) Particle trajectories. For every trial, landing locations were independently sampled from a Gaussian distribution. As such, particles landed around the same area with small variations induced by noise. For illustration purposes, dashed arrow lines represent particle trajectory of current (black) and past (blue) trials, which over trials allow subjects to generate a representation of the Gaussian. (<strong>c</strong>) Change-points. The mean of the distribution abruptly moves to another point on the circle when a “change-point” occurs. This new mean is then sampled in the same manner as (<strong>b</strong>) until the next change-point.
