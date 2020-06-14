@@ -1,6 +1,6 @@
 ## Predictive Inference Task (online)
 
-This repository contains code to run an predictive inference task adapted from [Vaghi et al. 2017](https://doi.org/10.1016/j.neuron.2017.09.006) for web-based testing. The online task was used for the study:
+This repository contains code to run a predictive inference task adapted from [Vaghi et al. 2017](https://doi.org/10.1016/j.neuron.2017.09.006) for web-based testing. The online task was used for the study:
 
 <strong>Seow, T. X.F. & Gillan, C. M.</strong> (2020). [Transdiagnostic phenotyping reveals a host of metacognitive deficits implicated in compulsivity.](https://www.nature.com/articles/s41598-020-59646-4) <i>Scientific Reports</i>, <strong>10</strong>(1), 1-11.
 
@@ -17,4 +17,4 @@ Notes:
 ## License
 This work is licensed under the Creative Commons Attribution-Non Commercial 4.0 International (CC BY-NC 4.0). Feel free to use it and adapt it however you want for non-commerical purposes.
 
-Copyright (c) 2020 Tricia Seow
+(c) 2020 Tricia Seow
